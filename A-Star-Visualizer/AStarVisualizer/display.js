@@ -57,11 +57,11 @@ function header() {
 
     //Path
     iconposx += .05 * canvasWidth;
-    icon('#FFFE6A', '#FFFE6A', 'Visited');
+    icon('#FFFE6A', '#FFFE6A', 'Path');
 
     //Visited
     iconposx += .05 * canvasWidth;
-    icon('#40CEE3', '#AFD8F8', 'Path');
+    icon('#40CEE3', '#AFD8F8', 'Visited');
 
     //Openset
     iconposx += .06 * canvasWidth;
