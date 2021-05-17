@@ -34,6 +34,9 @@ A* Algorithm or any path finding algorithms are very difficult to visualize. Pic
 - Automatically add mazes and patterns
 - Add different Path Finding Algorithm
 
+## Inspired By
+[Clement Mihailescu's GitHub ](https://github.com/clementmihailescu/)<br/>
+
 ## Author
 
 **Bhaskarjyoti Sarma**
